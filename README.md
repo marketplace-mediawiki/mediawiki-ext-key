@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Выделение кнопки клавиатуры, либо кнопки функционального окна приложения.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Key`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Key' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#key: [CTRL]|[ALT]|[DEL]}}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
